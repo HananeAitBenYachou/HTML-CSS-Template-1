@@ -1,10 +1,14 @@
 # HTML-CSS-Template-1
 
-A simple responsiv eHTML and CSS template for building a modern website.
+A simple responsive HTML and CSS template for building a modern website.
 
 ## Demo
 
 You can view a live demo of this template [here](https://hananeaitbenyachou.github.io/HTML-CSS-Template-1/).
+
+## Screenshot
+
+[![Website Screenshot](images/website-screenshot.jpeg)](https://hananeaitbenyachou.github.io/HTML-CSS-Template-1/)
 
 ## Description
 
